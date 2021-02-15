@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #333;
+}
+
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.task {
+  font-size: 20px;
+  color: #f1356d;
+  margin: 10px;
+}
+
+h1 {
+  color: #f1356d;
+}
+
+input {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
+
+button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  margin-left: 10px;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
